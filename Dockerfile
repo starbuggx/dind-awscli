@@ -23,7 +23,6 @@ RUN apk --update-cache add \
         htop \
         iftop \
         net-tools \
-        python2 \
         python3 \
         less \
         iproute2 \
