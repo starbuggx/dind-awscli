@@ -1,4 +1,4 @@
-FROM docker:19.03.14
+FROM docker:24.0.3
 
 ENV GLIBC_VER=2.34-r0 \
     LANGUAGE="en_NZ.UTF-8" \
